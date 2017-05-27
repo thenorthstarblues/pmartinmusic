@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://dealer-daniel-75363.netlify.com"
+baseurl = "/"
 languageCode = "en-us"
 title = "Patrick Martin Music"
 theme = "hugo-artists-theme"
