@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --theme="hugo-artists-theme"
+  command = "hugo --theme=hugo-artists-theme"
   publish = "public"
 
 [context.production.environment]
