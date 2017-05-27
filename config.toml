@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Artists Theme"
+title = "Patrick Martin Music"
 theme = "hugo-artists-theme"
 
 [params]
@@ -11,8 +11,8 @@ theme = "hugo-artists-theme"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
-	description = "Your description"
+	name = "Patrick Martin"
+	description = "Patrick Martin is a freeland vocalist and guitarist based in Chicago, IL."
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
@@ -25,7 +25,7 @@ theme = "hugo-artists-theme"
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-	email = "your@email.com"
+	email = "patrickmartin20@gmail.com"
 
 
 	# Header an navigation
@@ -34,8 +34,8 @@ theme = "hugo-artists-theme"
 	# Do the same with the logo ('logo.svg').
 	# But keep the original filename!
 	[params.header]
-		title = "Artists Theme"
-		shortBio = "Thinker // Designer // YouTuber"
+		title = "Patrick Martin"
+		shortBio = "Vocalist & Guitarist"
 
 
 	# About section
@@ -43,39 +43,7 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "**Travis specializes in making things** for human people. Most of the things he makes are [digital interfaces](//travisneilson.com/), but he also puts effort into crafting [next-level beats](//soundcloud.com/travis-neilson) and [YouTube videos](//youtube.com/user/devtipsfordesigners) about making codes happen."
-
-		[[params.about.skills]]
-			name = "Communication"
-			value = 9
-
-		[[params.about.skills]]
-			name = "Organization"
-			value = 7
-
-		[[params.about.skills]]
-			name = "Learning"
-			value = 10
-
-		[[params.about.skills]]
-			name = "Teaching"
-			value = 6
-
-		[[params.about.skills]]
-			name = "Planning"
-			value = 7
-
-		[[params.about.skills]]
-			name = "Visual Design"
-			value = 5
-
-		[[params.about.skills]]
-			name = "UX Design"
-			value = 8
-
-		[[params.about.skills]]
-			name = "Programming"
-			value = 6
+		bio = "Patrick plays music."
 
 	# Contact secion
 	[params.contact]
@@ -106,11 +74,11 @@ theme = "hugo-artists-theme"
 
 
 	[params.form]
-		title = "Let's work together"
+		title = "Contact Patrick"
 		# Form fields
 		name = "Your Name"
 		email = "Your Email"
-		message = "Tell me about your project"
+		message = "Message"
 		buttonText = "Send"
 
 
