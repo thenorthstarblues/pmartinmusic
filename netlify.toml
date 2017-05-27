@@ -1,7 +1,6 @@
 [build]
-  command = "hugo --theme=hugo-artists-theme"
+  command = "hugo"
   publish = "public"
-  base    = "/"
 
 [context.production.environment]
   HUGO_VERSION = "0.21"
